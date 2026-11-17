@@ -2,6 +2,12 @@
 
 Reusable Codex skills for discovering academic opportunities, preparing applications, and drafting research outreach.
 
+## Apply to Scandinavia
+
+This skill collection is shared by **Apply to Scandinavia**.
+
+Follow our Telegram channel: [Apply to Scandinavia](https://t.me/applytoscandinavian).
+
 ## Skill catalog
 
 | Category | Skill | Purpose | Deliverable |
