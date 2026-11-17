@@ -6,7 +6,11 @@ Reusable Codex skills for discovering academic opportunities, preparing applicat
 
 This skill collection is shared by **Apply to Scandinavia**.
 
-Follow our Telegram channel: [Apply to Scandinavia](https://t.me/applytoscandinavian).
+خوشحال می‌شویم اگر ما را به دوستانتان معرفی کنید.
+
+- **Telegram channel / کانال تلگرام:** [@applytoscandinavian](https://t.me/applytoscandinavian)
+- **Discussion group / گروه تبادل:** [@applydenmarkfinland](https://t.me/applydenmarkfinland)
+- **Instagram / اینستاگرام:** [@applytoscandinavian](https://instagram.com/applytoscandinavian)
 
 ## Skill catalog
 
