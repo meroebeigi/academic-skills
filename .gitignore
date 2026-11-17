@@ -1,0 +1,15 @@
+# Personal inputs and generated application artifacts
+inputs/
+outputs/
+private/
+.env
+.env.*
+!.env.example
+*.docx
+*.pdf
+*.xlsx
+*.csv
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
